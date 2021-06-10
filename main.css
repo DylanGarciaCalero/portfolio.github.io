@@ -451,6 +451,12 @@ body{
 
   .about--text {
     margin-left: 5rem;
+    margin-top: 5rem;
+    font-size: 1.2rem;
+  }
+
+  .about--text span{
+    color: red ;
   }
 
   .about--image img {
@@ -578,4 +584,38 @@ body{
 
   .tech span {
     color: red;
+  }
+
+  @media (max-width: 75rem) {
+    .main {
+      height: auto;
+      flex-wrap: wrap;
+    }
+
+    .title {
+      max-width: 80%;
+    }
+
+    .introduction {
+      margin-left: 20%;
+      width: 40%;
+    }
+
+    .skills {
+      margin-left: 1rem;
+      width: 20%;
+    }
+
+    .right-panel {
+      margin: 5rem auto;
+      width: 80%;
+    }
+
+    .highlighted-projects {
+      height: 25rem;
+    }
+
+    .contact {
+      height: 10rem;
+    }
   }
