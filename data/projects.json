@@ -4,70 +4,84 @@
         "image": "./ProjectPreviews/FutureIsland.JPG",
         "description": "A rock-werchter website clone that we made in our first semester. We were rather new to the world of javascript, and we were about to fetch our first data. Soon, a whole new world of possibilities arrived!",
         "timeCreated": "december 2020",
+        "repo": "https://github.com/DylanGarciaCalero/FutureIsland",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "html ",
+            "css ",
+            "javascript ",
+            "fetch api ",
+            "json "
         ]
     },
 
     {
         "project": "Ailiv",
         "image": "./ProjectPreviews/Ailiv.JPG",
-        "description": "A clone of a flower webshop",
+        "description": "This was one of the first existing websites we had to clone, which was very interesting! Being able to interact with the original creators and exchange ideas was very insightful!",
         "timeCreated": "januari 2021",
+        "repo": "https://github.com/DylanGarciaCalero/Ailiv",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "html ",
+            "css ",
+            "javascript ",
+            "fetch api ",
+            "query parameters "
         ]
     },
 
     {
         "project": "Gentse Feesten",
         "image": "./ProjectPreviews/GentseFeesten.JPG",
-        "description": "",
+        "description": "This project was the first one where design really brought challenges. </br> The clean and interesting design that was used in the original website, was more complex than anything we had seen before. </br> This made this assignment one of the harder ones, but also very fullfilling!",
         "timeCreated": "februari 2021",
+        "repo": "https://github.com/DylanGarciaCalero/Gentse-Feesten",
         "technologies": [
             "html",
             "css",
-            "javascript"
+            "javascript",
+            "figma",
+            "fetch api"
         ]
     },
 
     {
         "project": "Arne Quinze",
         "image": "./ProjectPreviews/ArneQuinze.JPG",
-        "description": "A clone of a belgian artists website",
+        "description": "As someone who always has been interested in art, this was a particularly fun one as the website we had to create was one of the famous Belgian artist, Arne Quinze. </br> The simple but yet strong design was very interesting to work with!",
         "timeCreated": "march 2021",
+        "repo": "https://github.com/DylanGarciaCalero/Arne-Quinze",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "html ",
+            "css ",
+            "javascript ",
+            "fetch api "
         ]
     },
 
     {
         "project": "Github search machine",
         "image": "./ProjectPreviews/GithubSearchMachine.JPG",
-        "description": "An interface where we can search for github users, their followers and repositories",
+        "description": "Here we created an interface where we could search for github users, their followers and repositories. </br> The freedom we had within this project was very nice, and allowed us to show our creativity.",
         "timeCreated": "april 2021",
+        "repo": "https://github.com/DylanGarciaCalero/Github-Searchmachine",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "html ",
+            "css ",
+            "javascript ",
+            "fetch api ",
+            "github api "
         ]
     },
 
     {
         "project": "No planet B",
         "image": "./ProjectPreviews/NoPlanetB.JPG",
-        "description": "A website, made to make the world more aware of it's environmental issues.",
+        "description": "A website, made to make the world more aware of it's environmental issues. </br> It was our first *complete* website we created, and we had a lot of fun doing so. </br> The striking subject of the website was something everyone could get behind.",
         "timeCreated": "november 2020",
+        "repo": "https://github.com/DylanGarciaCalero/No-planet-B",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "html ",
+            "css "
         ]
     }
 ]

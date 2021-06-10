@@ -31,8 +31,8 @@
                             <p>${element.description}</p>
                             <div class="bottom-projecttext">
                                 <p>Date of creation: ${element.timeCreated}</p>
-                                <p>Technologies used for this project: ${element.technologies}</p>
-                                <a href="#"><p class="repo-link">Link to github repository</p></a>
+                                <p class="tech">Technologies used for this project: </br> <span>${element.technologies}</span></p>
+                                <a target="_blank" href="${element.repo}"><p class="repo-link">Link to github repository</p></a>
                             </div>
                         </div>
                     </div>
