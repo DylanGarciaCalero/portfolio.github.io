@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-dylangarciacalero",
+  "version": "1.0.0",
+  "description": "my personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Dylan Garcia Calero",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

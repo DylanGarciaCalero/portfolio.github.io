@@ -1,0 +1,73 @@
+[
+    {
+        "project": "Future Island",
+        "image": "./ProjectPreviews/FutureIsland.JPG",
+        "description": "A rock-werchter website clone that we made in our first semester. We were rather new to the world of javascript, and we were about to fetch our first data. Soon, a whole new world of possibilities arrived!",
+        "timeCreated": "december 2020",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+
+    {
+        "project": "Ailiv",
+        "image": "./ProjectPreviews/Ailiv.JPG",
+        "description": "A clone of a flower webshop",
+        "timeCreated": "januari 2021",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+
+    {
+        "project": "Gentse Feesten",
+        "image": "./ProjectPreviews/GentseFeesten.JPG",
+        "description": "",
+        "timeCreated": "februari 2021",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+
+    {
+        "project": "Arne Quinze",
+        "image": "./ProjectPreviews/ArneQuinze.JPG",
+        "description": "A clone of a belgian artists website",
+        "timeCreated": "march 2021",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+
+    {
+        "project": "Github search machine",
+        "image": "./ProjectPreviews/GithubSearchMachine.JPG",
+        "description": "An interface where we can search for github users, their followers and repositories",
+        "timeCreated": "april 2021",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+
+    {
+        "project": "No planet B",
+        "image": "./ProjectPreviews/NoPlanetB.JPG",
+        "description": "A website, made to make the world more aware of it's environmental issues.",
+        "timeCreated": "november 2020",
+        "technologies": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    }
+]
